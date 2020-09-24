@@ -1,4 +1,4 @@
-# Exercicio de Fixação Aula Composição
+# Exercício de Fixação Aula Composição
 ## Curso Java - Udemy - Prof. Nélio Alves
 <br>
  Composição de um Pedido contendo dados do cliente, Dados do Produto e Status do Pedido.
